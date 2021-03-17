@@ -4,4 +4,4 @@
 
   Grupo: Gustavo, Karlmer e Tiago.
   
-  Acesso: lab_python -> Binder -> .gke -> https://github.com/thedatasociety
+  Acesso: lab_python -> Jupyter Lab -> Binder -> .gke -> https://github.com/thedatasociety
