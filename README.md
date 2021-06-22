@@ -1,4 +1,4 @@
-# Daimonds_Project
+# Diamonds_Project
 
   Repositório da atividade de MBA de Machine Learning and Depp Learning 
 
