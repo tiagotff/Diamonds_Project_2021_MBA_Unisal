@@ -1,10 +1,11 @@
 # Diamonds_Project
 
-Repositório da atividade de MBA de Machine Learning and Depp Learning 
+Activity with Diamond Dataset using Machine Learning of MBA.
 
-Grupo: Gustavo, Karlmer e Tiago.
   
-Acesso: lab_python -> Jupyter Lab -> Binder -> .gke -> https://github.com/thedatasociety
+Acess: lab_python -> Jupyter Lab -> Binder -> .gke -> https://github.com/thedatasociety
+
+Or...
 
 # Diamonds - KDD & ML
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KarlmerABC/Diamonds_Project/blob/main/Script/diamonds_analysis.ipynb)
