@@ -9,6 +9,5 @@ O desenvolvimento deste trabalho baseia-se no procedimento KDD (Knowledge Discov
 
 # Acesso ao código
 
-# Diamonds - KDD & ML
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KarlmerABC/Diamonds_Project/blob/main/Script/diamonds_analysis.ipynb)
+Diamonds - KDD & ML - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KarlmerABC/Diamonds_Project/blob/main/Script/diamonds_analysis.ipynb)
 
