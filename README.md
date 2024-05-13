@@ -5,7 +5,7 @@ O desenvolvimento deste trabalho baseia-se no procedimento KDD (Knowledge Discov
 
 - Atividade com Diamond Dataset utilizando Machine Learning do MBA de Inteligência Artificial e Machine Learning do Centro Universitário Salesiano de São Paulo (Unisal).
 - Acesso: lab_python -> Jupyter Lab -> Binder -> .gke -> https://github.com/thedatasociety
-  Ou...
+
 
 # Acesso ao código
 
